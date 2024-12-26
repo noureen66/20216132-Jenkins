@@ -1,3 +1,4 @@
 #!/bin/bash
-ls
+#ls
 #"D:/download/Git/usr/bin/ls.exe"
+dir
